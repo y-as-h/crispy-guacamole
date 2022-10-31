@@ -1,2 +1,2 @@
 # crispy-guacamole
-A repository for CP Algorithms
+My repository for CP algorithms
